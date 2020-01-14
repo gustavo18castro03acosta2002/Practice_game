@@ -1,0 +1,7 @@
+*I will count to 3 and then we
+show our selection to the other
+Paper wins agains Rock but loses agains Scisors,
+Rock wins agains Scisors but loses agains Paper
+and Scisors wins agains Paper but loses agains Rock*
+
+*All right let's play*

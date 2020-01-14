@@ -1,0 +1,6 @@
+-- After starting the game i advice you if you need --
+-- help bc you don't know what to put on a input --
+-- situation just write the command 'Help' or 'help' --
+-- to display the Help option, and don't worry --
+-- once you done you will not have to start from the --
+-- begging --
